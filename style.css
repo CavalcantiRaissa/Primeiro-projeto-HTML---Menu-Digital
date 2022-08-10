@@ -1,0 +1,103 @@
+/* comentário */
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+   
+   
+   background-color: #CBDDD1DD;
+   }
+   
+   .nameofshop {
+     color: #38682B;
+   }
+   
+   .descrição {
+     color: #7D9B76;
+   }
+   
+   .produtos{
+     color: #38682B;
+   }
+   
+   p{
+     color: #272727;
+   }
+   
+   .BR{
+     color: #272727;
+   }
+   
+   .ARG {
+     color: #272727;
+   }
+   
+   .JAP {
+     color: #272727;
+   }
+   
+   .FRA {
+     color: #272727;
+   }
+   
+   .MEX {
+     color: #272727;
+   }
+   
+   .price {
+       color: #272727;
+   
+   }
+   
+   .água{
+     color: #272727;
+   }
+   
+   .sucos{
+     color: #272727;
+   }
+   
+   .café{
+     color: #272727;
+   }
+   
+   .valor{
+     color: #272727;
+   }
+   
+   ul{
+     list-style: none;
+   }
+   
+   header{
+     max-width: 100%;
+     border: 1px solid #7D9B76
+   }
+   
+   section{
+     max-width: 100%;
+     border: 1px solid #7D9B76 
+   }
+   
+   section h2 {
+      background-color: #7d9b7643;
+      padding: 8px 16px; 
+      margin-bottom: 24px;
+      text-align: center;
+   
+   }
+   
+   section h3 {
+      background-color: #7d9b7643;
+      margin-bottom: 15px;
+     display: grid;
+   
+   }
+   
+   /* FONTS */
+   
+   h1,
+   h2,
+   .prince { 
+   font-family: 'Raleway', sans-serif;
+   }
